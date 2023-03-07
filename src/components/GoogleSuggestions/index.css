@@ -1,0 +1,31 @@
+/* Write your CSS  here */
+.inner-cont {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px groove #bfbfbf;
+  width: 50%;
+}
+.search-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.google-logo {
+  width: 14%;
+  margin-bottom: 20px;
+}
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.search-icon {
+  width: 20px;
+}
+.search-bar {
+  width: 100%;
+}
